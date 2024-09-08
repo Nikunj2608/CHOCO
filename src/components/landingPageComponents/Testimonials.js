@@ -59,19 +59,23 @@ function Testimonials() {
                 </li>
 
                 <li className='break-inside-avoid'>
+                    
                     <figure className="relative h-full w-full max-w-[500px] p-6 rounded-xl border border-gray-200">
-                        <blockquote className='border-b pb-4 font-semibold text-lg'>
-                            This product changed my life😏.
-                        </blockquote>
-                        <figcaption>
+                                {/* <img src="users\ni.jpg" alt="user" className="inline-block shrink-0 pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" /> */}
+                    <figcaption>
                             <div className='flex items-center gap-4 mt-4'>
-                                <img src="/users/user-3.png" alt="user" className="inline-block shrink-0 pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" />
+                    <img src = "users\yo.jpg" alt="yo" className="inline-block shrink-0 pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" />
                                 <div className="flex flex-col">
-                                    <p className='font-semibold'>Jaat</p>
-                                    <p className='text-sm'>@tracy</p>
+                                    <p className='font-semibold'>YASH JI</p>
+                                    <p className='text-sm'>@DADDY</p>
                                 </div>
                             </div>
                         </figcaption>
+                        <blockquote className='border-b pb-4 font-semibold text-lg'>
+                            This product changed my life😏. Pehle sub mujhe chidhate the phir choco creams ke baad i m the best.
+                        </blockquote>
+                        
+                       
                     </figure>
                 </li>
 

@@ -81,6 +81,43 @@ function BeforeAfter() {
                             <Star key={i} className="h-5 w-5 text-yellow-500 fill-yellow-500" />
                         ))}
                     </div>
+                        
+                    <div className='text-center font-semibold text-balance text-gray-800'>
+                        I LUVVVVVVVV cherish creamms 💦💦💦<span className='bg-blue-200'>Cheerish Ice-Creames</span>  "Chuso Choko" ka swaad aapne dekha na hoga , wo creamm , wo tasteee 😋😋😋😋👅👅👅, wo chussaaaii , ahh tann aur bandan dono me hai wo chusne ka raazz ,try out our new long chuso protein creamm , ek baar chuso ge to 10X steriod ho jayega <b>FULLLL TO MOOJJJJ MASTEERR</b>
+                        
+                    </div>
+
+                    <div className='flex mx-auto items-center justify-center gap-4 my-6'>
+                        <img src="users\yo.jpg" alt="user" className="inline-block pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" />
+                        <div className="flex flex-col">
+                            <p className='font-semibold'>CTO</p>
+                            <p className='text-sm'></p>
+                        </div>
+                    </div>
+                    <div className="mx-auto flex items-center justify-center gap-1 mb-4">
+                        {Array(5).fill().map((_, i) => (
+                            <Star key={i} className="h-5 w-5 text-yellow-500 fill-yellow-500" />
+                        ))}
+                    </div>
+                        
+                    <div className='text-center font-semibold text-balance text-gray-800'>
+                        I LUVVVVVVVV cherish creamms 💦💦💦<span className='bg-blue-200'>Cheerish Ice-Creames</span>  "Chuso Choko" Muthi maro aur chuso choko jiska swaadd aapko rhega yaad aur muthi marne ke baad bhi rahoge naabaadd 😎😎😎😎😎😋😋😋😋😋
+                        
+                    </div>
+
+                    <div className='flex mx-auto items-center justify-center gap-4 my-6'>
+                        <img src="users\user-1.png" alt="user" className="inline-block pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" />
+                        <div className="flex flex-col">
+                            <p className='font-semibold'>HR</p>
+                            <p className='text-sm'></p>
+                        </div>
+                    </div>
+                
+                    <div className="mx-auto flex items-center justify-center gap-1 mb-4">
+                        {Array(5).fill().map((_, i) => (
+                            <Star key={i} className="h-5 w-5 text-yellow-500 fill-yellow-500" />
+                        ))}
+                    </div>
 
                     <div className='text-center font-semibold text-balance text-gray-800'>
                         I can't imagine my life without <span className='bg-yellow-200'>Cheerish Ice-Creames</span>  "Chuso Choco" leke aao, aur apne swad ka maza chakh lo! 😏 Har lick par chocolate ka asar andar tak utrega 😜, aur har bite pe mazedaar masti ka nasha chadh jayega!🔥 Thandi-thandi ice cream, garam-garam jazbaat! 😉

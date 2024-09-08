@@ -13,16 +13,17 @@ function FinalPush() {
                         <span className='absolute top-[-20px] right-0'>
                             <IoIosRocket className='h-10 w-10 text-sky-900' />
                         </span>
-                        Take your business to the next level
+                        For more chussing choco ice Creams for enhanced and enriched taste 
                     </h2>
 
                     <p className='text-lg font-medium leading-relaxed text-gray-700'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, facere, excepturi id suscipit provident voluptatum placeat, delectus necessitatibus molestias tempore inventore accusamus expedita quae. Deleniti quod incidunt asperiores cupiditate repudiandae.
+                       This is YASH OZA who have been using choco creams from very so long time jaha pe hum logo ne bahut creams khilaaye our best experience was at DAIICT and gave 20 feet long choco to premmevad 
+                    
                     </p>
-
+                        
                     <div className="w-full lg:w-1/4">
                         <Link href='/' className={cn(buttonVariants({ size: "lg" }), "flex items-center justify-center group px-4")}>
-                            <span>Start Now</span>
+                            <span>Choco Now</span>
                             <ArrowRight className='ml-1.5 transform h-4 w-4 transition-transform duration-300 group-hover:translate-x-1' />
                         </Link>
                     </div>
